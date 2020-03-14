@@ -1,2 +1,5 @@
 def prime?(num)
-  if num <= 0 || num == log10re
+  prime = true 
+  if
+    num <= 0 || num == 1 
+    prime = false 
